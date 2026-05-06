@@ -1,9 +1,7 @@
 exclude:
-  [
-    "./CNAME",
-    "./LICENSE",
-    "./scripts",
-    "./README.md",
-    "./.gitignore",
-    "./.gitattributes",
-  ]
+  - CNAME
+  - LICENSE
+  - scripts
+  - README.md
+  - .gitignore
+  - .gitattributes
